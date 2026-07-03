@@ -2,6 +2,19 @@
 
 A desktop-based **Movie Rental Management System** developed in **C++** using **Dear ImGui** for the graphical user interface and **SQLite** for persistent data storage. The application supports secure user authentication, movie rental and purchase operations, and an administrator dashboard for inventory and user management.
 
+
+## Overview
+
+This project is a GUI-based extension of my earlier **Movie Rental Management System (CLI)**. The original command-line application established the core object-oriented architecture, while this version enhances it with:
+
+- Dear ImGui-based graphical interface
+- SQLite database integration
+- Persistent authentication and movie management
+- Administrator dashboard
+- Improved user experience
+
+**CLI Repository:** https://github.com/SarthakGit14/Movie-Rental-App.git
+
 ---
 
 ## 🚀 Features
