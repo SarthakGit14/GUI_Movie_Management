@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/src/main.cpp.o -c /home/sarthak/MovieGUI/src/main.cpp",
+  "file": "/home/sarthak/MovieGUI/src/main.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/backend/Movie.cpp.o -c /home/sarthak/MovieGUI/backend/Movie.cpp",
+  "file": "/home/sarthak/MovieGUI/backend/Movie.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/backend/MovieManager.cpp.o -c /home/sarthak/MovieGUI/backend/MovieManager.cpp",
+  "file": "/home/sarthak/MovieGUI/backend/MovieManager.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/backend/User.cpp.o -c /home/sarthak/MovieGUI/backend/User.cpp",
+  "file": "/home/sarthak/MovieGUI/backend/User.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/database/Database.cpp.o -c /home/sarthak/MovieGUI/database/Database.cpp",
+  "file": "/home/sarthak/MovieGUI/database/Database.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/screens/LoginScreen.cpp.o -c /home/sarthak/MovieGUI/screens/LoginScreen.cpp",
+  "file": "/home/sarthak/MovieGUI/screens/LoginScreen.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/screens/SignupScreen.cpp.o -c /home/sarthak/MovieGUI/screens/SignupScreen.cpp",
+  "file": "/home/sarthak/MovieGUI/screens/SignupScreen.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/screens/DashboardScreen.cpp.o -c /home/sarthak/MovieGUI/screens/DashboardScreen.cpp",
+  "file": "/home/sarthak/MovieGUI/screens/DashboardScreen.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/screens/AdminScreen.cpp.o -c /home/sarthak/MovieGUI/screens/AdminScreen.cpp",
+  "file": "/home/sarthak/MovieGUI/screens/AdminScreen.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/imgui/imgui.cpp.o -c /home/sarthak/MovieGUI/imgui/imgui.cpp",
+  "file": "/home/sarthak/MovieGUI/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/imgui/imgui_draw.cpp.o -c /home/sarthak/MovieGUI/imgui/imgui_draw.cpp",
+  "file": "/home/sarthak/MovieGUI/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/imgui/imgui_tables.cpp.o -c /home/sarthak/MovieGUI/imgui/imgui_tables.cpp",
+  "file": "/home/sarthak/MovieGUI/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/imgui/imgui_widgets.cpp.o -c /home/sarthak/MovieGUI/imgui/imgui_widgets.cpp",
+  "file": "/home/sarthak/MovieGUI/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/imgui/imgui_demo.cpp.o -c /home/sarthak/MovieGUI/imgui/imgui_demo.cpp",
+  "file": "/home/sarthak/MovieGUI/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/imgui/backends/imgui_impl_glfw.cpp.o -c /home/sarthak/MovieGUI/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/sarthak/MovieGUI/imgui/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/sarthak/MovieGUI/build",
+  "command": "/usr/lib/ccache/g++  -I/home/sarthak/MovieGUI/imgui -I/home/sarthak/MovieGUI/imgui/backends -I/home/sarthak/MovieGUI/database -I/home/sarthak/MovieGUI/backend -I/home/sarthak/MovieGUI/screens -I/home/sarthak/MovieGUI/include -g -o CMakeFiles/MovieGUI.dir/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/sarthak/MovieGUI/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/sarthak/MovieGUI/imgui/backends/imgui_impl_opengl3.cpp"
+}
+]

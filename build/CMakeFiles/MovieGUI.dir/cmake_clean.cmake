@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/MovieGUI.dir/backend/Movie.cpp.o"
+  "CMakeFiles/MovieGUI.dir/backend/Movie.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/backend/MovieManager.cpp.o"
+  "CMakeFiles/MovieGUI.dir/backend/MovieManager.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/backend/User.cpp.o"
+  "CMakeFiles/MovieGUI.dir/backend/User.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/database/Database.cpp.o"
+  "CMakeFiles/MovieGUI.dir/database/Database.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/imgui/backends/imgui_impl_glfw.cpp.o"
+  "CMakeFiles/MovieGUI.dir/imgui/backends/imgui_impl_glfw.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/imgui/backends/imgui_impl_opengl3.cpp.o"
+  "CMakeFiles/MovieGUI.dir/imgui/backends/imgui_impl_opengl3.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui.cpp.o"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui_demo.cpp.o"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui_demo.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui_draw.cpp.o"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui_draw.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui_tables.cpp.o"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui_tables.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui_widgets.cpp.o"
+  "CMakeFiles/MovieGUI.dir/imgui/imgui_widgets.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/screens/AdminScreen.cpp.o"
+  "CMakeFiles/MovieGUI.dir/screens/AdminScreen.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/screens/DashboardScreen.cpp.o"
+  "CMakeFiles/MovieGUI.dir/screens/DashboardScreen.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/screens/LoginScreen.cpp.o"
+  "CMakeFiles/MovieGUI.dir/screens/LoginScreen.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/screens/SignupScreen.cpp.o"
+  "CMakeFiles/MovieGUI.dir/screens/SignupScreen.cpp.o.d"
+  "CMakeFiles/MovieGUI.dir/src/main.cpp.o"
+  "CMakeFiles/MovieGUI.dir/src/main.cpp.o.d"
+  "MovieGUI"
+  "MovieGUI.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/MovieGUI.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
