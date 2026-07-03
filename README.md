@@ -13,7 +13,7 @@ This project is a GUI-based extension of my earlier **Movie Rental Management Sy
 - Administrator dashboard
 - Improved user experience
 
-**CLI Repository:** https://github.com/SarthakGit14/Movie-Rental-App.git
+**CLI Repository:** https://github.com/SarthakGit14/Movie-Rental-System.git
 
 ---
 
